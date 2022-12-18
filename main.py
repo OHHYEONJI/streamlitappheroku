@@ -7,10 +7,6 @@ Created on Sat Feb 12 19:07:35 2022
 
 # import libraries needed
 import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import seaborn as sns
 
 
 # loading navigation bar stylesheet
